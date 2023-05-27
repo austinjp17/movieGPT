@@ -1,0 +1,15 @@
+.selectable-chip {
+    /* border: solid red 1px; */
+    border-radius: 20px;
+    text-align: center;
+    width: fit-content;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    outline: none;
+}
+
+.active-chip {
+    background-color: #219EBC;
+}

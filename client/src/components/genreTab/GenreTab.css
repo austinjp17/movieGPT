@@ -1,0 +1,20 @@
+.label-dropdown {
+    padding: 30px 25px 10px 25px;
+    color: #858585;
+    font-family: Rubik;
+    font-weight: 300;
+    font-size: 14px;
+}
+
+.selectable-chip:hover {
+    cursor: pointer;
+}
+
+.genre-chip-container {
+    /* border:solid blue 1px; */
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-bottom: 2rem;
+    overflow: hidden;
+    /* display: flex; */
+}
